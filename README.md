@@ -1,3 +1,3 @@
 # hello_world
 Mein ersten Repository
-hallo zusammen heute mochte ich uber mein gestrigen Tagen erzahlen
+hello to all in this project I will create an application that allows us to download playlists from youtube with high resolution
