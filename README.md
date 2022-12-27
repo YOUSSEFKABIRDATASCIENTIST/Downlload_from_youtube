@@ -8,4 +8,4 @@ instead of buying the software license that allows you to download from youtube 
 
 
 ## after I have to create a desktop application with graphical interfaces using python
-[![MasterHead](https://thumbs.dreamstime.com/b/development-logo-template-design-progress-business-vector-symbol-abstract-triangle-sign-stylized-pyramid-structure-concept-179322812.jpg)](https://rishavchanda.io)
+
